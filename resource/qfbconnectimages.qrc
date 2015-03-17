@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/close.png</file>
+        <file>images/fbicon.png</file>
+        <file>images/login2.png</file>
+        <file>images/login2_down.png</file>
+        <file>images/login.png</file>
+        <file>images/login_down.png</file>
+        <file>images/logout.png</file>
+        <file>images/logout_down.png</file>
+    </qresource>
+</RCC>

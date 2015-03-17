@@ -1,0 +1,15 @@
+Source: libqfacebook
+Section: libs
+Priority: optional
+Maintainer: Robin Burchell <viroteck@viroteck.net>
+Build-Depends: debhelper (>= 5), libqt4-dev, libgconf2-dev
+Standards-Version: 3.7.2
+
+Package: libqfacebook
+Architecture: any
+Depends: libqt4-gui, libqt4-xmlpatterns, libqt4-xml, libqt4-webkit, libqt4-network, libc6 (>= 2.5.0-1), libgcc1 (>= 1:4.2.1), libstdc++6 (>= 4.2.1)
+Description: A library to access Facebook
+ A library to enable Qt applications to
+ access and use Facebook.
+ .
+ Further Information: blog.rburchell.com
